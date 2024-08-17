@@ -1,9 +1,10 @@
 ## Hi there 👋 I am GAURANG GUPTA
 
+📫 How to reach me: gauranggupta192004@gmail.com
 <!--
 **Gaurang1904/Gaurang1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
