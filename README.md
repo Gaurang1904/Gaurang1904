@@ -24,5 +24,12 @@
 -->
 
 ## 📊 GitHub Stats
-![Gaurang Gupta GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurang1904&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true)
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurang1904&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurang1904&layout=compact&theme=radical) |
+| --- | --- |
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gaurang1904&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Gaurang1904&theme=radical&margin-w=10)
+
+
 
