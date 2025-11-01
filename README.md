@@ -22,3 +22,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📊 GitHub Stats
+![Gaurang Gupta GitHub stats](https://github-readme-stats.vercel.app/api?username=umar1207&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true)
+
